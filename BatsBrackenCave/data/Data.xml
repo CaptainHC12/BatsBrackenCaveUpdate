@@ -1,0 +1,12 @@
+<entities>
+<entity type="Producer" name="Corn" species ="Zea mays saccharata" amount = "1000"></entities>
+<entity type="Producer" name="Cotton" species ="Goossypium hirsutum" amount = "1000"></entities>
+<entity type="Consumer" name="Corn earworm" species ="Helicoverpa zea" amount = "50"></entities>
+<entity type="Consumer" name="Cotton Bollworm" species ="Helicoverpa zea" amount = "300"></entities>
+<entity type="Consumer" name="Brazilian free-tailed bat" species ="Tadarida brasiliensis" amount = "20"></entities>
+<entity type="Consumer" name="Red-tailed hawk" species ="Buteo jamaicensis" amount = "2"></entities>
+<entity type="Decomposer" name="Dermestid beetle" species ="Dermestes carnivora" amount = "5"></entities>
+<entity type="Decomposer" name="Guano Beetle" species ="Jacobsoniidae" amount = "5"></entities>
+<entity type="Player" name="Anonymous Player" species ="Human" amount = "1"></entities>
+<entity type="Vendor" name="Unknown" species ="Human" amount = "1"></entities>
+</entities>
